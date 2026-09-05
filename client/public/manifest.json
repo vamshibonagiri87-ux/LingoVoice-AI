@@ -1,0 +1,10 @@
+{
+  "name": "LingoVoice AI",
+  "short_name": "LingoVoice",
+  "description": "Adaptive AI Voice Language Tutor",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090E",
+  "theme_color": "#4F46E5",
+  "icons": []
+}
