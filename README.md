@@ -2,7 +2,21 @@
 
 > Transform language learning from passive memorization into an interactive **Speak → Analyze → Correct → Practice → Improve** voice learning loop.
 
-**LingoVoice AI** is a full-stack AI voice language tutor platform built with Next.js, Express, MongoDB (with automated zero-dependency in-memory fallback), Socket.IO, and a multi-agent AI tutor orchestration engine (OpenRouter, Google Gemini, and Deterministic Fallback).
+[![Frontend on Vercel](https://img.shields.io/badge/Frontend-Vercel-black?style=for-the-badge&logo=vercel)](https://lingo-voiceai.vercel.app)
+[![Backend on Render](https://img.shields.io/badge/Backend-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://lingovoice-ai.onrender.com)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/vamshibonagiri87-ux/LingoVoice-AI)
+[![Health Status](https://img.shields.io/badge/API_Status-Healthy-22c55e?style=for-the-badge)](https://lingovoice-ai.onrender.com/api/health)
+
+---
+
+## 🌐 Live Production Links
+
+| Service | Platform | Live URL | Status |
+| :--- | :--- | :--- | :--- |
+| **Frontend Web App** | **Vercel** | [https://lingo-voiceai.vercel.app](https://lingo-voiceai.vercel.app) | 🟢 Live & Operational |
+| **Backend REST & Socket API** | **Render** | [https://lingovoice-ai.onrender.com](https://lingovoice-ai.onrender.com) | 🟢 Live & Operational |
+| **API Health Check** | **Render** | [https://lingovoice-ai.onrender.com/api/health](https://lingovoice-ai.onrender.com/api/health) | 🟢 Healthy |
+| **Source Code Repository** | **GitHub** | [https://github.com/vamshibonagiri87-ux/LingoVoice-AI](https://github.com/vamshibonagiri87-ux/LingoVoice-AI) | 🟢 Main Branch |
 
 ---
 

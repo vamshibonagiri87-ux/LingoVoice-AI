@@ -1,9 +1,21 @@
 # 🚀 LingoVoice AI - Complete Deployment Guide (Vercel + Render + GitHub)
 
 This guide walks you step-by-step through deploying **LingoVoice AI** to production:
-- **Frontend**: [Vercel](https://vercel.com) (Next.js client)
-- **Backend**: [Render](https://render.com) (Node.js Express + Socket.IO server)
-- **Code Repository**: [GitHub](https://github.com)
+- **Frontend**: [https://lingo-voiceai.vercel.app](https://lingo-voiceai.vercel.app) (Vercel)
+- **Backend**: [https://lingovoice-ai.onrender.com](https://lingovoice-ai.onrender.com) (Render)
+- **API Health**: [https://lingovoice-ai.onrender.com/api/health](https://lingovoice-ai.onrender.com/api/health)
+- **Code Repository**: [https://github.com/vamshibonagiri87-ux/LingoVoice-AI](https://github.com/vamshibonagiri87-ux/LingoVoice-AI)
+
+---
+
+## 🌐 Live Production Deployments
+
+| Component | Provider | Live URL |
+| :--- | :--- | :--- |
+| **Frontend** | **Vercel** | [https://lingo-voiceai.vercel.app](https://lingo-voiceai.vercel.app) |
+| **Backend API** | **Render** | [https://lingovoice-ai.onrender.com](https://lingovoice-ai.onrender.com) |
+| **Health Endpoint** | **Render** | [https://lingovoice-ai.onrender.com/api/health](https://lingovoice-ai.onrender.com/api/health) |
+| **Repository** | **GitHub** | [https://github.com/vamshibonagiri87-ux/LingoVoice-AI](https://github.com/vamshibonagiri87-ux/LingoVoice-AI) |
 
 ---
 
